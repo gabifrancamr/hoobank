@@ -180,7 +180,7 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: coinbase,
   },
   {
     id: "client-2",
