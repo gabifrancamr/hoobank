@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link: https://gabifrancamr.github.io/hoobank/
 
-Currently, two official plugins are available:
+Landing Page para empresa de cartão de crédito
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologias: 
+* React
+* Tailwind 
+
+https://github.com/gabifrancamr/hoobank/assets/95250838/16687ddb-a758-46a3-adfc-ed85bb2cc469
+
